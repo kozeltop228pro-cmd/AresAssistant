@@ -1,0 +1,4 @@
+Telethon==1.44.0
+edge-tts==7.3.1
+pywin32==312
+qrcode==8.2
